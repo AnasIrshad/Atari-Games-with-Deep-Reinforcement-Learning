@@ -1,0 +1,13 @@
+
+paper 
+https://arxiv.org/pdf/1312.5602.pdf
+
+How to use Q Learning in Video Games Easily
+
+challenge code
+https://www.youtube.com/watch?v=A5eihauRQvo
+https://github.com/llSourcell/q_learning_demo
+
+
+project
+https://github.com/mickvanhulst/q_learning
